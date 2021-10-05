@@ -67,3 +67,16 @@ main .post--container {
     font-weight: 300;
     align-self: flex-start;
 }
+/* Comienzo del footer */
+footer {
+    background-color: rgb(22, 22, 22);
+    width: 100%;
+}
+footer p {
+    font-size: 1.6rem;
+    text-align: center;
+    color: #FFF;
+    line-height: 2rem;
+    font-weight: 700;
+    padding: 10px 0px;
+}

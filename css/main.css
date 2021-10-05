@@ -23,7 +23,7 @@ main .post--container {
     flex-flow: column nowrap;
     margin-top: 10px;
     /* Efecto de sombra */
-    box-shadow: 0px 8px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 1px 50px rgba(255, 255, 255, 0.5);
 }
 .cabecera {
     display: flex;
@@ -66,20 +66,23 @@ main .post--container {
     padding: 0px 15px;
 }
 .post--item h1 {
-    margin-top: 10px;
+    margin-top: 30px;
     font-size: 4.3rem;
-    line-height: 3.6rem;
-    align-self: flex-start;
+    line-height: 4.8rem;
+    text-align: center;
 }
 .post--item h3 {
-    margin-top: 10px;
+    margin-top: 30px;
     margin-bottom: 10px;
-    font-size: 2.0rem;
+    font-size: 2.2rem;
+    line-height: 2.6rem;
     font-weight: 300;
     align-self: flex-start;
+    color: rgb(80, 79, 79);
 }
 /* Comienzo del footer */
 footer {
+    margin-top: 30px;
     background-color: rgb(22, 22, 22);
     width: 100%;
 }

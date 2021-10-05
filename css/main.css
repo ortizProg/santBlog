@@ -8,7 +8,7 @@ html {
     font-family: "Arial";
 }
 body {
-    background-color: rgb(14, 14, 14);
+    background-color: rgb(63, 63, 63);
 }
 main .post--container {
     width: 70vw;
@@ -28,7 +28,7 @@ main .post--container {
 .cabecera {
     display: flex;
     position: relative;
-    background-color: rgb(8, 8, 163);
+    background-color: rgb(22, 22, 22);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     width: 100%;
